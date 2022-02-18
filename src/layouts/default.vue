@@ -1,6 +1,9 @@
 <template>
 <div>
-я темплейт
-<slot />
-  </div>
+  <Header />
+  <main>
+    <slot />
+  </main>
+  <Footer />
+</div>
 </template>
