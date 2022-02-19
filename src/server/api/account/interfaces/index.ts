@@ -1,0 +1,1 @@
+export type { ISigninResponse } from './signin-response.interface';
